@@ -3,6 +3,7 @@ package BookProblem;
 import java.io.*;
 import java.util.StringTokenizer;
 
+// 백준 11660번 문제 구간 합 구하기 5
 public class No004 {
 
     public static void main(String[] agrs) throws IOException{
